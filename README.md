@@ -19,5 +19,10 @@ This project focuses on predicting liquidity in the cryptocurrency market to enh
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/crypto-liquidity-prediction.git
+   git clone https://github.com/asaher84/crypto-liquidity-prediction.git
    cd crypto-liquidity-prediction
+
+   👨‍💻 Author
+Aditya
+GitHub Profile: github.com/asaher84
+Email: adiaher84@gmail.com
